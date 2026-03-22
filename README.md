@@ -1,19 +1,21 @@
-# Streamlytics – Netflix Content Strategy Analyzer
+# Streamlytics - Netflix Content Strategy Analyzer
 
-This project analyzes Netflix titles using Exploratory Data Analysis (EDA) and Feature Engineering.
+## Project Overview
+This project analyzes Netflix content data using Data Cleaning, Feature Engineering, and Exploratory Data Analysis (EDA).
 
-## Milestone 1
-- Data loading
-- Missing value check
-- Duplicate removal
-- Date conversion
-- Cleaned dataset creation
+## Milestones
+- Milestone 1: Data Cleaning
+- Milestone 2: Feature Engineering
+- Milestone 3: Data Visualization and Analysis
 
-## Milestone 2
-- Movies vs TV Shows distribution
-- Genre distribution analysis
-- Feature engineering:
-  - content_length_category
+## Key Insights
+- Movies dominate Netflix content
+- Content increased after 2015
+- USA produces most content
+- Popular genres identified
 
-Tools Used:
-Python, Pandas, Matplotlib, Seaborn
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
